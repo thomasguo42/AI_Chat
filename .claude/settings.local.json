@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(python app.py:*)",
+      "Bash(curl:*)",
+      "Bash(python:*)",
+      "Bash(cat:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill -9)",
+      "Bash(chmod:*)",
+      "Bash(./start.sh)",
+      "Bash(kill:*)",
+      "Bash(netstat:*)",
+      "Bash(pip install:*)",
+      "Bash(timeout 10 python:*)",
+      "Bash(for i in {1..5})",
+      "Bash(do)",
+      "Bash(echo:*)",
+      "Bash(done)"
+    ]
+  }
+}
